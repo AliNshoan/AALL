@@ -1,0 +1,11 @@
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe.config
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.vbprojResolveAssemblyReference.cache
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.Form1.resources
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.Resources.resources
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.exe
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.xml
+c:\users\hicom\documents\visual studio 2015\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.pdb
